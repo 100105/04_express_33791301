@@ -1,1 +1,4 @@
 home=http://www.doc.gold.ac.uk/usr/103/
+about=https://doc.gold.ac.uk/usr/103/about
+contact=http://www.doc.gold.ac.uk/usr/103/contact
+date=http://www.doc.gold.ac.uk/usr/103/date
