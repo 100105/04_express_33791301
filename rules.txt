@@ -1,0 +1,5 @@
+Virtual Machine steps:
+1. cd 04_express_33791301
+2. git pull
+3. forever stopall
+4. forever start index.js
