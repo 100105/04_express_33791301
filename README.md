@@ -1,10 +1,10 @@
-# express project
+# Express Project
 
 This is my express project which i built using express.js. It has four different routes: /, /about, /contact and /date.
 
 ---
 
-## how to run
+## How To Run
 1. install dependencies using npm install
 
 2. start the server using node index.js
@@ -13,7 +13,7 @@ This is my express project which i built using express.js. It has four different
 
 ---
 
-#### technologies used
+### Technologies Used
 node.js 
 express.js
 javascript 
@@ -21,5 +21,5 @@ npm
 
 ---
 
-### author
+#### Author
 Sara Shah
